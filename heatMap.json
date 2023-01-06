@@ -5,7 +5,7 @@
         "data": [          
     {
             "title": "",
-            "id": "PL-02", // With MapPolygonSeries.useGeodata = true, it will try and match this id, then apply the other properties as custom data
+            "id": "PL-02", 
             "customData": "Nadwyżka szukających pracy"
           }
         ]
@@ -17,13 +17,13 @@
           {
             "title": "",
             "id": "PL-04",
-            // "color": chart.colors.getIndex(1),
+            
             "customData": "Równowaga popytu i podaży",
             "groupId": "2004"
           }, {
             "title": "",
             "id": "PL-06",
-            // "color": chart.colors.getIndex(1),
+           
             "customData": "Równowaga popytu i podaży",
             "groupId": "2004"
           },
